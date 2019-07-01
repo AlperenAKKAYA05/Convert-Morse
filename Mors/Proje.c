@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ak.h"
+#include "mors.h"
 main(){
 	Mors();
 }
